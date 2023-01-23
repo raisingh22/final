@@ -1,0 +1,6 @@
+
+ [
+    { "id": "1", "source": require('./assets/a.jpg') },
+    { "id" : "2", "source": require('./assets/c.png') },
+   
+  ]
